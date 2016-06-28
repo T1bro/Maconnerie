@@ -1,5 +1,5 @@
 [UPD]
-v=2.4
-build=5
-des=Добавлена функция быстрого ввода ника по ID
+v=2.5
+build=6
+des=Исправлена неработоспособность pid. Теперь работает
 upd=Maconnerie Family by Charles Lincoln
